@@ -37,11 +37,6 @@ function App() {
                 alt="amazon"
               />
             </a>
-            {/* <img
-          className="logos"
-          src="../public/Images/flipkart (1).png"
-          alt="flipkart"
-        /> */}
           </div>
         </div>
 

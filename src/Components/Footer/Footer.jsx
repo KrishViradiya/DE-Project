@@ -3,10 +3,9 @@ import Icons from '../../Icons/Icons'
 import './Footer.css'
 function Footer() {
   return (
-    <div className="footer">
+    <div className="footer flex justify-center items-center">
                 <ul>
-                    <li>CopyRight Canvas 2023</li>
-                    <Icons name={"github"} />
+                    <li className=''>CopyRight Canvas 2023</li>
                 </ul>
     </div>
   );
