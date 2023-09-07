@@ -2,7 +2,7 @@ import './navbar'
 function landing() {
   return (
    <>
-    
+    Hello.
     </>
   );
 }
